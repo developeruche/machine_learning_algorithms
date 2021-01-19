@@ -1,0 +1,2 @@
+This is machine learning model that thinks with simple vector machine but upgraded with the kernel implimentation, This would help the machine learn more and be able to predit the dependent variable in
+the presencde of some non-linear indepentent variables.
